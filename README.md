@@ -1,15 +1,9 @@
-### Hi there 👋
+### Hola mundoooo 🎃
 
-<!--
-**Xaail/Xaail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.       
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help w 💬 Ask me about ...
+- 🔭 Actualmente estoy intentando aprender cosas nuevas
+- 🌱 Me encuentro tomando un curso de programacion web, e intento descubrir como usar Unity  D:
+- 🤔 Busco ayuda para Unity JAJAJAJ aun no se como usarlo pero ahi vamos
 - 📫 Como comunicarse conmigo: carballoxail@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Dato interesante: Me gusta dibujar y leer ✨🎨
 -->
